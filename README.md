@@ -23,6 +23,6 @@ This project is a tribute page dedicated to Dr. A.P.J. Abdul Kalam, a visionary 
   <a href="https://tributepage-bynikhilverma.netlify.app/" title="TRIBUTE PAGE">TRIBUTE PAGE</a> for Dr. A.P.J. Abdul Kalam
   
 ## How To Run Project
-Download the project zip file to you computer and unzip the file. Or clone this repository to your desktop.Navigate to the project directory and double-click the tribute.html file. Your default browser should launch a new tab displaying the portfolio page. Or simply open the file manually from your browser.
+Download the project zip file to you computer and unzip the file. Or clone this repository to your desktop.Navigate to the project directory and double-click the index.html file. Your default browser should launch a new tab displaying the portfolio page. Or simply open the file manually from your browser.
 
 ### Feel free to explore the page and learn more about the remarkable life of Dr. A.P.J. Abdul Kalam. Your feedback and contributions are welcome to further enhance this tribute!!!
